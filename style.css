@@ -1,0 +1,11 @@
+.foto{
+    width: 15%;
+    align-items: center;
+}
+body{
+    background-color: rgb(126, 132, 137);
+}
+button{
+   border: 5%;
+    background-color: aqua;
+}
